@@ -1,2 +1,2 @@
 # SAP-Fiori-TCD-ZEWM10-upload-file-script
-This python script creates an upload file for ZEWM10
+This python script creates an upload file for ZEWM10 in SAP Fiori TCD
